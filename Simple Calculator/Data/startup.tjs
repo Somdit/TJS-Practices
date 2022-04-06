@@ -56,3 +56,5 @@ if (calc.calculate())
         System.inform(calc.answer);
     }
 }
+
+invalidate calc;
