@@ -1,0 +1,5 @@
+var a = "abcd";
+
+a = a.split("bc");
+
+System.inform(a);
